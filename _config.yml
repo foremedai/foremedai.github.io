@@ -1,3 +1,3 @@
-title: Portfolio
-description: a
-theme: minima
+title: config Portfolio
+description: description
+remote_theme: pages-themes/minimal@v0.2.0
