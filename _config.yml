@@ -5,7 +5,7 @@ plugins:
   - jekyll-remote-theme
 
 minima:
-  skin: solarized-dark
+  skin: auto
   nav_pages:
     - about.md
     - index.md
