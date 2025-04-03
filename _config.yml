@@ -3,7 +3,7 @@ description: description
 theme: minima
 
 minima:
-  skin: auto
+  skin: solarized-dark
   nav_pages:
     - about.md
     - index.md
